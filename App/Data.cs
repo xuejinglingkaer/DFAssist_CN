@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using App.Properties;
 using Newtonsoft.Json;
-//using SharpRaven.Data;
+using SharpRaven.Data;
 
 namespace App
 {
